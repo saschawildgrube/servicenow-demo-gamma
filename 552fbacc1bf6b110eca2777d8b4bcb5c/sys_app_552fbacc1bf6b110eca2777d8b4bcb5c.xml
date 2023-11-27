@@ -15,7 +15,7 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>Demo Gamma</name>
+        <name>Demo Gamma WORK IN PROGRESS</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
@@ -31,16 +31,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-11-24 15:04:19</sys_created_on>
         <sys_id>552fbacc1bf6b110eca2777d8b4bcb5c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-11-24 16:18:50</sys_updated_on>
+        <sys_updated_on>2023-11-27 08:46:00</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
         <user_role/>
         <vendor/>
         <vendor_prefix/>
-        <version>1.1.0</version>
+        <version>1.2.0</version>
         <x_snc_devtools_documentation_url/>
         <x_snc_devtools_maintainer/>
         <x_snc_devtools_maintainer_email/>
