@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_suite_test">
+    <sys_atf_test_suite_test action="INSERT_OR_UPDATE">
+        <abort_on_failure>false</abort_on_failure>
+        <order>0</order>
+        <sys_class_name>sys_atf_test_suite_test</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-11-27 08:58:20</sys_created_on>
+        <sys_id>dd2805c91bf67510eca2777d8b4bcbc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dd2805c91bf67510eca2777d8b4bcbc0</sys_name>
+        <sys_package display_value="Demo Gamma" source="552fbacc1bf6b110eca2777d8b4bcb5c">552fbacc1bf6b110eca2777d8b4bcb5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo Gamma">552fbacc1bf6b110eca2777d8b4bcb5c</sys_scope>
+        <sys_update_name>sys_atf_test_suite_test_dd2805c91bf67510eca2777d8b4bcbc4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-11-27 08:58:20</sys_updated_on>
+        <test display_value="Demo Gamma - Test Gamma One">dd2805c91bf67510eca2777d8b4bcbc0</test>
+        <test_suite display_value="Demo Gamma">650881c91bf67510eca2777d8b4bcb6c</test_suite>
+    </sys_atf_test_suite_test>
+</record_update>

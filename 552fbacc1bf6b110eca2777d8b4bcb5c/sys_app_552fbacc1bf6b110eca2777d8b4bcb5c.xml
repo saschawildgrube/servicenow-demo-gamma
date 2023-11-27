@@ -15,13 +15,13 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>Demo Gamma WORK IN PROGRESS</name>
+        <name>Demo Gamma</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>global</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description>This is Demo Gamma</short_description>
         <source>552fbacc1bf6b110eca2777d8b4bcb5c</source>
         <store_correlation_id/>
         <store_url/>
@@ -31,9 +31,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-11-24 15:04:19</sys_created_on>
         <sys_id>552fbacc1bf6b110eca2777d8b4bcb5c</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-11-27 08:46:00</sys_updated_on>
+        <sys_updated_on>2023-11-27 09:00:05</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
@@ -41,9 +41,9 @@
         <vendor/>
         <vendor_prefix/>
         <version>1.2.0</version>
-        <x_snc_devtools_documentation_url/>
-        <x_snc_devtools_maintainer/>
-        <x_snc_devtools_maintainer_email/>
+        <x_snc_devtools_documentation_url>https://www.wildgrube.com/download/A%20mature%20Development%20and%20Deployment%20Process.pdf</x_snc_devtools_documentation_url>
+        <x_snc_devtools_maintainer>Sascha Wildgrube</x_snc_devtools_maintainer>
+        <x_snc_devtools_maintainer_email>sascha.wildgrube@servicenow.com</x_snc_devtools_maintainer_email>
         <x_snc_devtools_repo_url>https://github.com/saschawildgrube/servicenow-demo-gamma.git</x_snc_devtools_repo_url>
     </sys_app>
     <sys_translated_text action="delete_multiple" query="documentkey=552fbacc1bf6b110eca2777d8b4bcb5c"/>
